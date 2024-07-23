@@ -1,0 +1,1 @@
+Proyecto de Control de estudiantes desarrollado en .net C#, a la hora de instalar y ejecutar mucho ojo con las versiones del .net
